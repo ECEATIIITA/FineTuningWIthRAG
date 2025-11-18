@@ -1,3 +1,5 @@
+# src/rag_core/query_engine.py
+
 from llama_index.core import VectorStoreIndex, QueryEngine
 from llama_index.llms.ollama import Ollama
 from db.atlas_connector import AtlasConnector

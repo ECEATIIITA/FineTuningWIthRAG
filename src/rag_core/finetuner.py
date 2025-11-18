@@ -1,3 +1,4 @@
+# src/rag_core/finetuner.py
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 class RAGFinetuner:
