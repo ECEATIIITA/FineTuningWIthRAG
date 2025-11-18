@@ -1,0 +1,16 @@
+llama-index-core
+llama-index-readers-file
+llama-index-vector-stores-mongodb
+pymongo
+ollama
+llama-index-embeddings-ollama
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+python-dotenv
+pydantic 
+pytest
+transformers
+peft
+bitsandbytes
+fastapi
+chromadb
